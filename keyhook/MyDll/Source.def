@@ -1,0 +1,7 @@
+LIBRARY
+SECTIONS
+	shared Read Write Shared
+
+EXPORTS
+	SetKeyHook
+	UnKeyHook
